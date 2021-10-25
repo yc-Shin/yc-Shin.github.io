@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: YC's Blog
+description: YC's profile, stack and experience/
+url: https://yc-Shin.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: YC-Shin
+  url: https://github.com/yc-Shin/
+  email: tlsdudcjf7@gmail.com
