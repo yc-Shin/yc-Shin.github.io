@@ -2,10 +2,10 @@
 title: YC's Blog
 description: YC's profile, stack and experience
 url: https://yc-Shin.github.io
-avatar: /avatar.jpeg
+avatar: /avartar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
