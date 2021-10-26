@@ -1,9 +1,9 @@
 ---
 layout: post
-title: mFAS(머신러닝기반 뇌졸중 분류 연구)
-date: 2017-10-26 23:18 +0800
-last_modified_at: 2021-10-27 01:08:25 +0800
-tags: [Stroke, feature extraction, machine learning]
+title: X-ray 및 기본 임상정보를 활용한 딥러닝기반 무릎 골 관절염 분류 연구
+date: 2019-09-01 00:00:00 +0800
+last_modified_at: 2020-02-28 00:00:00 +0800
+tags: [knee-osteoarthritis, CNN, CAM, Inception-resnet-v2]
 toc:  true
 ---
 
@@ -18,7 +18,7 @@ Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-##연구기획
+## 연구기획
 Stroke(뇌졸중)은 4대중증(심혈관질환,뇌혈관질환,중증외상,심정지)에 해당하며,
 
 - **To bold text**, use `<strong>`.
@@ -31,7 +31,7 @@ Stroke(뇌졸중)은 4대중증(심혈관질환,뇌혈관질환,중증외상,심
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-##데이터 수집용 안드로이드 Application 개발
+## 데이터 수집용 안드로이드 Application 개발
 
 Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
 
@@ -47,11 +47,11 @@ Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the f
 
 You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
 
-##데이터 취득 예시
+## 데이터 취득 예시
 
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-##관련 논문 작성
+## 관련 논문 작성
 
 ### Code
 
