@@ -37,9 +37,10 @@ OARSI Score는 Osteoarthritis Research Society International(OARSI) 에서 권�
 
 
 ## 데이터 취득 
+- OsteoArthritis Initiation (OAI) DATA
+미국 국립 보건원 (National Institutes of Health, NIH)에서 운영하는 미국 국립 정신건강 연구소 데이터 아카이브 (National Institutes of Mental Health Data Archive, NIHM Data Archive)의 골관절염 이니셔티브 (OsteoArthritis Initiative, OAI) 데이터셋을 활용. OAI 데이터셋 취득을 위해서는 접근 권한 요청 및 인증과정이 존재함. **다기관에서 수집한 2004년~2014년까지 최초 스크리닝부터 108개월까지, 총 12회의 추적 정보가 존재하고, 기본적인 임상 정보, X-ray, MRI, Lab Test 결과 등의 다양한 데이터를 포함 하고 있으며, 45~79세의 남성, 여성 그리고 다양한 인종의 데이터를 포함하고 있음. 첫 스크리닝에서 총 4,796명의 환자가 존재하였으나, 차후 추적에서 참여 환자 수가 점차 감소**
 
 ## 연구설계
-Stroke(뇌졸중)은 4대중증(심혈관질환,뇌혈관질환,중증외상,심정지)에 해당하며,
 
 
 ## 전처리
