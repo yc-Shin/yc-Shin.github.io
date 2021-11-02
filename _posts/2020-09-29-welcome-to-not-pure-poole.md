@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Welcome to not pure pool example
-date: 2021-10-24 23:18 +0800
-last_modified_at: 2021-10-25 01:08:25 +0800
-tags: [Stroke, feature extraction, machine learning]
+date: 2010-10-24 23:18 +0800
+last_modified_at: 2010-10-25 01:08:25 +0800
+tags: []
 toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
