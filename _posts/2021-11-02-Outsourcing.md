@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAZAPALZA, WINEAT 외주 프로젝트
-date: 2020-01-06 00:00 +0800
+date: 2021-03-01 00:00 +0800
 last_modified_at: 2021-09-30 00:00:00 +0800
 tags: [Masterpiece, Inception-resnet-v2, SRGAN, API]
 toc:  true
