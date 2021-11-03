@@ -27,15 +27,15 @@ toc:  true
 
   OARSI Score는 Osteoarthritis Research Society International(OARSI) 에서 권고하는 점수체계로서, 그림 4는 관절간격감소에 대한 정도를, 그림5는 골극의 형성 정도를 0(none)부터 3(Severe)까지 나타내는 점수
 
-![image](https://user-images.githubusercontent.com/82125326/138992468-96e6a4cf-c2bd-4d58-8001-b4d111276077.png)
-![image](https://user-images.githubusercontent.com/82125326/138992471-fefa706f-c916-4486-aa18-bb5f20f6f984.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/138992468-96e6a4cf-c2bd-4d58-8001-b4d111276077.png "Large example image"){: .align-center}
+![placeholder](https://user-images.githubusercontent.com/82125326/138992471-fefa706f-c916-4486-aa18-bb5f20f6f984.png "Large example image"){: .align-center}
 
 - Kellgren-Lawrence Grade (KL-Grade)
 
   무릎 골 관절염의 심각도를 분류하는 점수체계로서, X-ray를 통한 무릎 골관절염의 심각도를 나타내는 수치이며 Grade 0(none)부터 Grade 4(Severe)까지 심각도를 구분하며, 높은 Grade일수록 무릎 골관절염이 악화된것으로 분류함
   
-![image](https://user-images.githubusercontent.com/82125326/138992346-d84ef06f-08d8-4be3-b9e4-bfbe24a73337.png)
-![image](https://user-images.githubusercontent.com/82125326/138992358-906f9029-74bd-43dc-8b31-7342763c6966.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/138992346-d84ef06f-08d8-4be3-b9e4-bfbe24a73337.png "Large example image"){: .align-center}
+![placeholder](https://user-images.githubusercontent.com/82125326/138992358-906f9029-74bd-43dc-8b31-7342763c6966.png "Large example image"){: .align-center}
 
 ## 데이터 취득 
 - OsteoArthritis Initiation (OAI) 
