@@ -44,26 +44,26 @@ toc:  true
 
 
 ## 연구설계
-![image](https://user-images.githubusercontent.com/82125326/141040509-6c45efb5-3c63-4190-9710-29e388ef85a6.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040509-6c45efb5-3c63-4190-9710-29e388ef85a6.png "Large example image"){: .align-center}
 
 ### Non clinical input
-![image](https://user-images.githubusercontent.com/82125326/141040350-2a83498b-255b-4a85-94f9-badfc5ed2a2a.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040350-2a83498b-255b-4a85-94f9-badfc5ed2a2a.png "Large example image"){: .align-center}
 
 ### Include Clinical input
-![image](https://user-images.githubusercontent.com/82125326/141040359-2a77d144-7c31-479a-b74c-4c33f1b7398c.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040359-2a77d144-7c31-479a-b74c-4c33f1b7398c.png "Large example image"){: .align-center}
 
 
 ## 전처리
 
 ### 좌우 및 필요부분 분리
-![image](https://user-images.githubusercontent.com/82125326/141040536-d2876ce8-f573-41f5-80a4-50fd715075dc.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040536-d2876ce8-f573-41f5-80a4-50fd715075dc.png "Large example image"){: .align-center}
 
 ### Contrast 전처리
-![image](https://user-images.githubusercontent.com/82125326/141040707-e3baac49-9e95-405b-87d7-011764a93ee6.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040707-e3baac49-9e95-405b-87d7-011764a93ee6.png "Large example image"){: .align-center}
 
 ## 결과
 ### Non clinical input
-![image](https://user-images.githubusercontent.com/82125326/141040752-d7020f3b-2781-4e94-8cd6-1a7495e85233.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040752-d7020f3b-2781-4e94-8cd6-1a7495e85233.png "Large example image"){: .align-center}
 
 ### Icnlude Clinical input
-![image](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png)
+![placeholder](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png "Large example image"){: .align-center}
