@@ -103,6 +103,10 @@ toc:  true
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png "Large example image"){: .align-center}
 
+### KL-Grade 별 Class Activation Map
+
+![placeholder](https://user-images.githubusercontent.com/82125326/141229087-4cb5d650-9f99-4e9b-b446-5676d7130217.png "Large example image"){: .align-center}
+
 ### 결론
 ![placeholder](https://user-images.githubusercontent.com/82125326/141226780-52242ee4-7824-45bb-ace0-c52a1417499b.png "Large example image"){: .align-center}
 
