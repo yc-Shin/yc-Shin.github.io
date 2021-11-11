@@ -60,6 +60,8 @@ toc:  true
   5. 자세한 내용은 [논문](https://ir.ymlib.yonsei.ac.kr/handle/22282913/179009) 확인 바람
 
 ## 연구설계
+- 선행연구 결과에 따라, CNN을 통해 X-ray에서 JSN정보를 추출하고, 임상정보를 더해 최종적으로 KL-Grade를 분류하는 구조를 설계
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040509-6c45efb5-3c63-4190-9710-29e388ef85a6.png "Large example image"){: .align-center}
 
 ### Non clinical input
