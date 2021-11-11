@@ -8,6 +8,7 @@ toc:  true
 ---
 
 연세대학교 의과대학 생체공학협동과정 석사과정 연구 및 논문
+[논문링크](https://library.yonsei.ac.kr/search/detail/CAT000001993919)
 {: .message }
 ## 개요
 
