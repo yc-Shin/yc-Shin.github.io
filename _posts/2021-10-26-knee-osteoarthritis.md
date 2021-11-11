@@ -75,18 +75,22 @@ toc:  true
 
 ### 좌우 및 필요부분 분리
 - 가로, 세로가 길이가 다른 데이터를 같게 만들기 위해, 가로, 세로 중 부족한부분을 Zero padding 진행 
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141220621-edd284cb-9209-44ec-9896-034d71c8d870.png "Large example image"){: .align-center}
 - 일부 데이터가 손실되지 않게 위해 각각 [0,w/2+w/10], [w-w/2-w/10]로 cropping
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141220712-db70aedf-fe10-4f7b-9255-f6585616bfab.png "Large example image"){: .align-center}
 - 실제 필요한 부분의 이미지는 무릎의 간격 부분이므로, 1차적으로 U-net으로 간격부분을 Segmentation 진행하였음
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141220889-ade86cea-af40-4598-8812-24ff997382f0.png  "Large example image"){: .align-center}
 - Segmentation은 잘 이루어졌으나 주위 골격의 크기를 비교해야 하므로 segmentation이미지의 중심부를 기준으로 상 150pix, 하 150pix, 좌 300pix, 우 300pix을 cropping 하여 가로 600pix, 세로 300pix의 이미지를 생성
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141220982-5f4ef58b-0323-4a95-8740-fed0934e03bf.png "Large example image"){: .align-center}
 - 이후 좌/우 무릎의 이미지에 따라 Medial JSN (JSNM), Lateral JSN(JSNL)로 이미지 분리
 
 
 ### Contrast 전처리
-- 이미지 별 Contrast가 다양하여, 다음과 같이 Contrast Equalization을 
+- 이미지 별 Contrast가 다양하여, 다음과 같이 Contrast Equalization을 진행 하였음
 ![placeholder](https://user-images.githubusercontent.com/82125326/141221268-0568b1c2-cdf2-4ada-b0a1-0883ada5b572.png "Large example image"){: .align-center}
 
 ## 결과
