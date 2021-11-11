@@ -110,7 +110,7 @@ toc:  true
 
 ### KL-Grade 별 Class Activation Map (CAM)
 
-![placeholder](https://user-images.githubusercontent.com/82125326/141229087-4cb5d650-9f99-4e9b-b446-5676d7130217.png "Large example image"){: .align-center}
+![placeholder](https://user-images.githubusercontent.com/82125326/141229087-4cb5d650-9f99-4e9b-b446-5676d7130217.png "Medium example image"){: .align-center}
 
 ## 결론
 1. 무릎골관절염 분류에 가장 큰 영향을 미치는 특징 = 몸 중심부 관절간격감소정도(JSNM)
