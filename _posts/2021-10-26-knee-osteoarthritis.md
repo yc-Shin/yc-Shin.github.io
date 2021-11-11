@@ -102,3 +102,7 @@ toc:  true
 ### Icnlude Clinical input
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png "Large example image"){: .align-center}
+
+### 결론
+![placeholder](https://user-images.githubusercontent.com/82125326/141226780-52242ee4-7824-45bb-ace0-c52a1417499b.png "Large example image"){: .align-center}
+
