@@ -95,6 +95,9 @@ toc:  true
 ![placeholder](https://user-images.githubusercontent.com/82125326/141221268-0568b1c2-cdf2-4ada-b0a1-0883ada5b572.png "Large example image"){: .align-center}
 
 ## 결과
+
+![placeholder](https://user-images.githubusercontent.com/82125326/141229392-39f8505a-c0f6-40cf-9c87-d3624dbbb467.png "Large example image"){: .align-center}
+
 ### Non clinical input
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040752-d7020f3b-2781-4e94-8cd6-1a7495e85233.png "Large example image"){: .align-center}
@@ -107,6 +110,5 @@ toc:  true
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141229087-4cb5d650-9f99-4e9b-b446-5676d7130217.png "Large example image"){: .align-center}
 
-### 결론
-![placeholder](https://user-images.githubusercontent.com/82125326/141226780-52242ee4-7824-45bb-ace0-c52a1417499b.png "Large example image"){: .align-center}
+## 결론
 
