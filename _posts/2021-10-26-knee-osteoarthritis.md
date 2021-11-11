@@ -106,9 +106,12 @@ toc:  true
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png "Large example image"){: .align-center}
 
-### KL-Grade 별 Class Activation Map
+### KL-Grade 별 Class Activation Map (CAM)
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141229087-4cb5d650-9f99-4e9b-b446-5676d7130217.png "Large example image"){: .align-center}
 
 ## 결론
-
+1. 무릎골관절염 분류에 가장 큰 영향을 미치는 특징 = 몸 중심부 관절간격감소정도(JSNM)
+2. CNN을 통해 X-ray를 활용하고, 임상정보 유무에 따라 각각 75.5%, 74.3%의 정확도로 분류
+3. CAM을 보아 실제 임상의 처럼 무릎관절간격 정보를 활용함을 알수 있었으며,
+4. 임상정보의 유무가 약 1.2%정도의 정확도 차이를 나타내었음.
