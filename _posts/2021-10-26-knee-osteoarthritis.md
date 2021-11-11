@@ -42,6 +42,22 @@ toc:  true
 
   미국 국립 보건원 (National Institutes of Health, NIH)에서 운영하는 미국 국립 정신건강 연구소 데이터 아카이브 (National Institutes of Mental Health Data Archive, NIHM Data Archive)의 골관절염 이니셔티브 (OsteoArthritis Initiative, OAI) 데이터셋을 활용. OAI 데이터셋 취득을 위해서는 접근 권한 요청 및 인증과정이 존재함. **다기관에서 수집한 2004년~2014년까지 최초 스크리닝부터 108개월까지, 총 12회의 추적 정보가 존재하고, 기본적인 임상 정보, X-ray, MRI, Lab Test 결과 등의 다양한 데이터를 포함 하고 있으며, 45~79세의 남성, 여성 그리고 다양한 인종의 데이터를 포함하고 있음. 첫 스크리닝에서 총 4,796명의 환자가 존재하였으나, 차후 추적에서 참여 환자 수가 점차 감소**
 
+## 선행연구
+- Feature Selection
+
+  1. 무릎 골 관절염 진단에 사용되는 특징들 중 Correlation이 높은 특징들만 사용하여 Demension을 줄이기 위해 연구를 진행 
+  2. 임상의의 조언에 따라 임상특징인 나이, 최고혈압, 최저혈압, BMI, 가족력, 성별을 채택
+  3. 더불어 X-ray에서 얻을 수 있는 JSN(무릎관절간격감소정도), OS(골극), 경화증여부(SC), 석회증여부(CH), 낭종여부(CY), 연골마모정도(ATT)를 채택
+  4. 카이제곱특성평가(Chi-Squared), 상관관계특성평가(Correlation), 정보획득 특성평가(Information Gain), 대칭불확실성 특성평가(Symmetric Uncertainty) 로 비교
+  5. 이후 선정된 특징들을 통해 분류 정확도 비교 (CNN 없이, X-ray 특징 Label만을 통해)
+
+- 결과
+
+  1. 모든 방법에서 임상정보보다 X-ray에서 취득가능한 정보가 영향이 컸으며,
+  2. 전반적으로 Lateral(몸의 중심에서 먼)부분 보다, Medial(중심쪽)의 이상징후가 영향이 컸으며,
+  3. 모든방법에서 JSN이 최상위권에 위치하였으며,
+  4. JSN 및 기본임상정보만으로도 Random-Forest 방법으로 82%의 Accuracy로 KL-Grade를 분류하였음
+  5. 자세한 내용은 [논문](https://ir.ymlib.yonsei.ac.kr/handle/22282913/179009) 확인 바람
 
 ## 연구설계
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040509-6c45efb5-3c63-4190-9710-29e388ef85a6.png "Large example image"){: .align-center}
