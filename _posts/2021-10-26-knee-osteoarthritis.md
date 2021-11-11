@@ -86,7 +86,8 @@ toc:  true
 
 
 ### Contrast 전처리
-![placeholder](https://user-images.githubusercontent.com/82125326/141040707-e3baac49-9e95-405b-87d7-011764a93ee6.png "Large example image"){: .align-center}
+- 이미지 별 Contrast가 다양하여, 다음과 같이 Contrast Equalization을 
+![placeholder](https://user-images.githubusercontent.com/82125326/141221268-0568b1c2-cdf2-4ada-b0a1-0883ada5b572.png "Large example image"){: .align-center}
 
 ## 결과
 ### Non clinical input
