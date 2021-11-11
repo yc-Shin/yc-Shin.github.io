@@ -91,11 +91,14 @@ toc:  true
 
 ### Contrast 전처리
 - 이미지 별 Contrast가 다양하여, 다음과 같이 Contrast Equalization을 진행 하였음
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141221268-0568b1c2-cdf2-4ada-b0a1-0883ada5b572.png "Large example image"){: .align-center}
 
 ## 결과
 ### Non clinical input
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040752-d7020f3b-2781-4e94-8cd6-1a7495e85233.png "Large example image"){: .align-center}
 
 ### Icnlude Clinical input
+
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040768-89df59de-8d48-400a-ab66-128d1c278a0f.png "Large example image"){: .align-center}
