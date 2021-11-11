@@ -61,6 +61,8 @@ toc:  true
 
 ## 연구설계
 - 선행연구 결과에 따라, CNN을 통해 X-ray에서 JSN정보를 추출하고, 임상정보를 더해 최종적으로 KL-Grade를 분류하는 구조를 설계
+- 기본적인 CNN 모델은 Inception-Resnet v2 모델을 사용하였으며, 이를 약간 변형하여 활용하였음
+- Multi input (Medial, Lateral 이미지, 임상정보) - Multi output (JSNL,JSNM,KL-Grade) 모델을 구성하였음
 
 ![placeholder](https://user-images.githubusercontent.com/82125326/141040509-6c45efb5-3c63-4190-9710-29e388ef85a6.png "Large example image"){: .align-center}
 
