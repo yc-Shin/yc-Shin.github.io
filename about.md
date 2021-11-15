@@ -2,6 +2,6 @@
 layout: page
 title: About
 ---
-![placeholder](https://user-images.githubusercontent.com/82125326/141729927-f83be703-3cd1-4eb1-9fb6-c663ef4db9c3.jpg "Medium example image"){: .align-center}
+![placeholder](https://user-images.githubusercontent.com/82125326/141730712-693f40b3-6285-4b12-8606-29381ba2c325.jpg "Medium example image"){: .align-center}
 
-## 
+## 신영철
