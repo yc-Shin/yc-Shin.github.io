@@ -17,7 +17,7 @@ toc:  true
 - [개발] 캐시고에 적용되어있는 명품분류 모델 중, 시계만 재학습 하여 새로운 모델 생성
 - [개발] 모델 활용을 위해 파이썬 기반 Flask framework 사용하여 API화
 
-![placehold](https://user-images.githubusercontent.com/82125326/142086037-1fc72d1f-13b3-40ee-a7cd-9c6974342887.png){: .align-center}
+![placehold](https://user-images.githubusercontent.com/82125326/142091208-2400c334-fbe7-47ca-b6d0-2e27a18d258c.png){: .align-center}
 
 ### WINEAT
 - 와인관련 서비스 (와인정보, 판매처, 콜키지프리 가게 등등 정보제공)
