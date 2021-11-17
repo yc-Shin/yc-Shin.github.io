@@ -25,8 +25,8 @@ toc:  true
 - [개발] 와인정보 수집을 위한 특정 웹페이지 2개에 대한 이미지 및 와인정보 Crawler 개발 
 - [개발] Tineye WineEngine 기반 와인 분류 API 개발
 
-![placehold](https://user-images.githubusercontent.com/82125326/142090966-34e009d6-0777-48d3-9c0e-46ca327d9c3c.png){: .align-center}
+![placehold](https://user-images.githubusercontent.com/82125326/142090966-34e009d6-0777-48d3-9c0e-46ca327d9c3c.png)
 
 - [개발] Tesseract 기반 메뉴판 OCR 인식 API 개발
 
-![placehold](https://user-images.githubusercontent.com/82125326/142090993-7497494d-2bb5-4bdb-8e99-19c021df6577.png){: .align-center}
+![placehold](https://user-images.githubusercontent.com/82125326/142090993-7497494d-2bb5-4bdb-8e99-19c021df6577.png)
