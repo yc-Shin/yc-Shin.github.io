@@ -1,6 +1,6 @@
 # Setup
 title: YC's Blog
-description: YC's profile, stack and experience
+description: YC's experience
 url: https://yc-Shin.github.io
 avatar: /avatar.jpg
 paginate: 10
@@ -28,9 +28,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: Songzi Vong
