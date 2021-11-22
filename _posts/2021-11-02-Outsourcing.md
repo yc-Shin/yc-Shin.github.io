@@ -3,7 +3,7 @@ layout: post
 title: SAZAPALZA, WINEAT 외주 프로젝트
 date: 2021-03-01 00:00 +0800
 last_modified_at: 2021-09-30 00:00:00 +0800
-tags: [Masterpiece, Inception-resnet-v2, SRGAN, API]
+tags: [Python, Keras, Flask, Masterpiece, Wine, Tineye, OCR, Tesseract, Inception-resnet-v2, API]
 toc:  true
 ---
 주식회사 캐시고 재직 시 담당한 SAZAPALZA(시계분류 서비스), WINEAT(와인분류 서비스) 외주 프로젝트
@@ -20,6 +20,8 @@ toc:  true
 ![placehold](https://user-images.githubusercontent.com/82125326/142091208-2400c334-fbe7-47ca-b6d0-2e27a18d258c.png){: .align-center}
 
 ### WINEAT
+현재 외부 출시되지 않아 자세한 정보 기재 불가
+{: .message }
 - 와인관련 서비스 (와인정보, 판매처, 콜키지프리 가게 등등 정보제공)
 - [기획] 와인정보 관련 DB Structure 구성
 - [개발] 와인정보 수집을 위한 특정 웹페이지 2개에 대한 이미지 및 와인정보 Crawler 개발 
